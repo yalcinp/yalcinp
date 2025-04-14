@@ -22,7 +22,7 @@ Currently, I am developing the open-source HDMR library at the Marenostrum super
 |------------------------|-------------------------------------------------------------------------|
 | **Languages**          | Python, C++, C#, Bash, MATLAB                                           |
 | **ML & AI**            | PyTorch, TensorFlow, Scikit-learn, HDMR, Transformers                   |
-| **Robotics**           | ROS, Gazebo, RViz, OpenCV, Control Theory                               |
+| **Robotics**           | ROS, Gazebo, RViz, Control Theory                               |
 | **Embedded & Real-Time** | Embedded AI, Sensor Fusion, PID Control, Simulink, Low-level APIs     |
 | **High-Performance Computing** | MPI, SLURM, Parallel Computing, Visualization, Azure             |
 | **DevOps & Workflow**  | Git, Docker, GitHub Actions, MLflow                                     |
@@ -34,8 +34,7 @@ Currently, I am developing the open-source HDMR library at the Marenostrum super
 - Machine learning for scientific computing  
 - Scalable HPC infrastructure for ML
 - Robotics and autonomous systems  
-- Real-time control and embedded AI  
-- Sensor fusion and perception systems  
+- Real-time control and embedded AI
 ---
 
 ### 📌 Selected Projects
