@@ -25,7 +25,6 @@ Currently, I am developing the open-source HDMR library at the Marenostrum super
 | **Robotics**           | ROS                            |
 | **Embedded & Real-Time** | Embedded AI, Sensor Fusion, Control Theory, Simulink    |
 | **High-Performance Computing** | MPI, SLURM, Parallel Computing             |
-| **DevOps & Workflow**  | Git, Docker, GitHub Actions, MLflow                                     |
 
 ---
 
