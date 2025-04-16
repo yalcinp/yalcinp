@@ -32,9 +32,8 @@ Currently, I am developing the open-source HDMR library at the Marenostrum super
 ### 🧪 Areas of Interest
 
 - Machine learning for scientific computing  
-- Scalable HPC infrastructure for ML
+- Worked with scalable HPC infrastructure for machine learning applications
 - Robotics and autonomous systems  
-- Real-time control and embedded AI
 ---
 
 ### 📌 Selected Projects
