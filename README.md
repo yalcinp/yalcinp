@@ -21,7 +21,7 @@ Currently, I am developing the open-source HDMR library at the Marenostrum super
 | Domain                  | Tools / Technologies                                                    |
 |------------------------|-------------------------------------------------------------------------|
 | **Languages**          | Python, C++, C#, Bash, MATLAB                                           |
-| **ML & AI**            | PyTorch, TensorFlow, Scikit-learn, HDMR, Transformers                   |
+| **ML & AI**            | PyTorch, TensorFlow, Scikit-learn, HDMR                   |
 | **Robotics**           | ROS                            |
 | **Embedded & Real-Time** | Embedded AI, Sensor Fusion, Control Theory, Simulink    |
 | **High-Performance Computing** | MPI, SLURM, Parallel Computing             |
