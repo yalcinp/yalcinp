@@ -56,7 +56,7 @@ Currently, I am developing the open-source HDMR library at the Marenostrum super
 ### 📫 Contact
 
 - 📍 Frankfurt am Main, Germany  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pinarguler)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pinargüler)  
 
 ---
 
