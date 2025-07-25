@@ -10,13 +10,11 @@
 
 I am a software developer and researcher with an academic background in **Control and Automation Engineering (BSc)** and **Computational Science and Engineering (MSc)**, with a focus on the intersection of **machine learning**, **robotics**, and **high-performance computing**. 
 
-My experience spans industrial R&D environments (e.g., Siemens) as well as research-driven academic projects. I have worked on robotics systems using ROS, developed APIs in C#, and used MATLAB/Simulink and C++ for simulation tools. I have also explored machine learning and different neural network models (such as ANN, CNN, and RNN) for biomedical data analysis.
+I have experience in both industrial R&D and academic research. My work includes developing robotics systems with ROS, building APIs in C#, and creating simulation tools using MATLAB, Simulink, and C++.
 
 Currently, I am developing the open-source HDMR library at the Marenostrum supercomputer for large-scale computational frameworks, focusing on tensor decomposition and its applications across various domains, including machine learning, data analysis, and beyond.
 
 ---
-
-### 🛠 Technical Expertise
 
 | Domain                  | Tools / Technologies                                                    |
 |------------------------|-------------------------------------------------------------------------|
