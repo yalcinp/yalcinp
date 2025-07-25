@@ -1,7 +1,7 @@
 <h1 align="center">Pınar Güler</h1>
 
 <p align="center">
-  Artificial Intelligence · High-Performance Computing · Robotics
+  Artificial Intelligence · High-Performance Computing 
 </p>
 
 ---
