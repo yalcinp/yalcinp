@@ -16,20 +16,9 @@ Currently, I am developing the open-source HDMR library at the Marenostrum super
 
 
 ### Areas of Interest
-
-- Machine learning and deep learning techniques for scientific computing  
-- Worked with scalable HPC infrastructure for machine learning applications
-- Robotics and autonomous systems  
----
-
-### Selected Projects
-
-- **Gene Network Visualization via HDMR**  
-  Developed a machine learning pipeline using high-dimensional model representation for genetic pattern classification. Deployed on HPC environments and presented at IGRS 2024.
-
-- **Autonomous 4-Wheel Robot (ROS)**  
-  Built a ROS-based navigation stack for a sensor-driven mobile robot. Integrated IMU and ultrasonic data for obstacle-aware motion planning.
-
+- Machine learning and deep learning for scientific and real-world applications
+- Natural language processing and language-based AI systems
+- Scalable HPC infrastructure for machine learning applications
 
 ---
 
