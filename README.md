@@ -17,7 +17,7 @@ Currently, I am developing the open-source HDMR library at the Marenostrum super
 
 ### Areas of Interest
 - Machine learning and deep learning for scientific and real-world applications
-- Natural language processing and language-based AI systems
+- Multimodal AI combining language and visual data to support complex reasoning and real-world interaction 
 - Scalable HPC infrastructure for machine learning applications
 
 ---
