@@ -6,7 +6,6 @@
 
 ---
 
-### 👤 Profile Summary
 
 I am a software developer and researcher with an academic background in **Control and Automation Engineering (BSc)** and **Computational Science and Engineering (MSc)**, with a focus on the intersection of **machine learning**, **robotics**, and **high-performance computing**. 
 
@@ -28,8 +27,6 @@ Currently, I am developing the open-source HDMR library at the Marenostrum super
 - **BSc** – Control and Automation Engineering, Istanbul Technical University (2020)
 
 ---
-
-### 📫 Contact
 
 - 📍 Frankfurt am Main, Germany  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/pinargüler)  
